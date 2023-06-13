@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize the action bar background color -->
+        <item name="android:background">#423838</item>
+
+        <!-- Customize the action bar text color -->
+        <item name="android:titleTextStyle">@style/AppTheme.ActionBar.TitleTextStyle</item>
+
+        <!-- Customize other action bar attributes as needed -->
+        <!-- ... -->
+    </style>
+
+    <!-- Style for the action bar title text -->
+    <style name="AppTheme.ActionBar.TitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <!-- Customize the title text color -->
+        <item name="android:textColor">#ffffff</item>
+
+        <!-- Customize other title text attributes as needed -->
+        <!-- ... -->
+    </style>
+</resources>
