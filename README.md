@@ -47,6 +47,7 @@ The Handwritten Equation Solver App is a useful tool designed to identify handwr
 - Compatible with Android platform.
 - Ensure your device has a working camera for image capture functionality.
 
+
 ## App Screenshots:
 
 ![Screenshot_20230612_214020_Handwritten Equation Solver](https://github.com/Anirudh265/Handwritten-Equation-Solver/assets/67727931/f7b46671-ff02-4e1d-a2ef-ecd3790c9760)
