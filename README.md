@@ -49,7 +49,8 @@ The Handwritten Equation Solver App is a useful tool designed to identify handwr
 
 
 ## App Screenshots:
+![image](https://github.com/Anirudh265/Handwritten-Equation-Solver/assets/67727931/920ec4c3-f6a3-41ee-9ced-ffeb6dbc1e24)
+![image](https://github.com/Anirudh265/Handwritten-Equation-Solver/assets/67727931/3e2e4e20-2d8e-4fe0-9564-61de175dbd21)
+![image](https://github.com/Anirudh265/Handwritten-Equation-Solver/assets/67727931/9626eef7-1fa5-45eb-a27a-84cedd333d77)
 
-![Screenshot_20230612_214020_Handwritten Equation Solver](https://github.com/Anirudh265/Handwritten-Equation-Solver/assets/67727931/f7b46671-ff02-4e1d-a2ef-ecd3790c9760)
-![Screenshot_20230612_214116_Handwritten Equation Solver](https://github.com/Anirudh265/Handwritten-Equation-Solver/assets/67727931/9e816e07-f444-4a73-8998-bc6c8d4de1c2)
-![Screenshot_20230612_214032_Handwritten Equation Solver](https://github.com/Anirudh265/Handwritten-Equation-Solver/assets/67727931/7b621c3d-ffd2-40cd-91fb-172396cca111)
+
